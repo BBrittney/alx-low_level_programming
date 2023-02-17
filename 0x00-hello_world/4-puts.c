@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main - To print a line of code using 'put command'
+ * main -To print a line of code using 'put command'
  *
  * Return:0
 */
