@@ -1,8 +1,9 @@
 #include <unistd.h>
-/**
- * main- writing a c programming line without using printf or puts
- * Return: 1
- */
+/*
+ * main  -A C program that prints "and that piece of art is useful"
+ * 
+ * Return:1
+*/
 int main(void)
 {
         char msg[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
